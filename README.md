@@ -29,8 +29,3 @@ Models are evaluated using the following metrics:
 - **Mean Absolute Error (MAE)**
 
 The best-performing model is saved for deployment.
-
-## 🌐 Streamlit Web Application
-A Streamlit web application is developed for easy user interaction with the model. 
-
-**Live Demo:** [Streamlit App Link](https://laptop-price-predictor-machine-learning.onrender.com)
